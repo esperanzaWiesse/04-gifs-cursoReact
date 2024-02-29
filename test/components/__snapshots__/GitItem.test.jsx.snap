@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test del componente GitItem debe de hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="sakura"
+      src="http://sakura.com/kawai"
+    />
+    <p>
+      sakura
+    </p>
+  </div>
+</div>
+`;
